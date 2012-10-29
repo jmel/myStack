@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'StackTest' target in the 'StackTest' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
